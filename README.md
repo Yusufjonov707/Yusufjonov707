@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yusufjonov707@gmail.com
 - ⚡ Fun fact: 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yusufjonov707&margin-w=15&theme=kimbie_dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://wakatime.com/@018c346b-770c-4f3c-b9bf-809af206e889"><img src="https://wakatime.com/badge/user/018c346b-770c-4f3c-b9bf-809af206e889.svg" alt="Total time coded since Dec 4 2023" /></a>
