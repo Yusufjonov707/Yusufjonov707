@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yusufjonov707@gmail.com
 - ⚡ Fun fact: 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yusufjonov707&margin-w=15&theme=kimbie_dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yusufjonov707&margin-w=15&theme=kimbie_dark)]
