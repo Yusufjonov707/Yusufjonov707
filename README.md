@@ -19,7 +19,7 @@
     </tr>
   </table>
 </div>
-        <a href="https://wakatime.com/@018c346b-770c-4f3c-b9bf-809af206e889">
-          <img src="https://wakatime.com/badge/user/018c346b-770c-4f3c-b9bf-809af206e889.svg" alt="WakaTime Badge" />
-        </a>
+    <a href="https://wakatime.com/@018c346b-770c-4f3c-b9bf-809af206e889">
+      <img src="https://wakatime.com/badge/user/018c346b-770c-4f3c-b9bf-809af206e889.svg" alt="WakaTime Badge" />
+    </a>
 
