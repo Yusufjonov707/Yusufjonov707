@@ -1,7 +1,6 @@
 ### Hi I am Baxodir 👋
 <hr>
 
-- 🌱 I’m currently learning C++/Unreal engine
 - 📫 How to reach me: yusufjonov707@gmail.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yusufjonov707)](https://github.com/ryo-ma/github-profile-trophy)
